@@ -1,0 +1,8 @@
+
+# .gitignore
+
+.vscode/
+
+# Executables
+main
+main2
